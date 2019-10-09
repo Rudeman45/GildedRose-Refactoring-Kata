@@ -17,10 +17,10 @@ namespace csharp
                 //dodanie zmiany w conjured mana cake
                 if (Items[i].Name == "Conjured Mana Cake")
                 {
-                    Items[i].Quality = Items[i].Quality - 2;
+                    Items[i].Quality = Items[i].Quality - 1;
                     if (Items[i].Quality < 0)
                     {
-                        Items[i].Quality = Items[i].Quality + 2;
+                        Items[i].Quality = Items[i].Quality + 1;
                     }
                 }
                 //koniec

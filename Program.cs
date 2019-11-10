@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace csharp
 {
+    //CANNOT ALTER THIS CLASS
     public class Program
     {
         public static void Main(string[] args)

@@ -10,6 +10,8 @@ namespace csharp
     {
         public void Test01()
         {
+            var Testorino = new Testorino01();
+
         }
     }
 }

@@ -14,7 +14,6 @@ namespace csharp
         {
             for (var i = 0; i < Items.Count; i++)
             {
-                /* KEEPING THIS CODE, INCASE OF ERRORS
                 //dodanie zmiany w conjured mana cake
                 if (Items[i].Name == "Conjured Mana Cake")
                 {
@@ -94,8 +93,13 @@ namespace csharp
                         }
                     }
                 }
-                */
             }
         }
+
+    }
+    public class Testorino01
+    {
+
     }
 }
+

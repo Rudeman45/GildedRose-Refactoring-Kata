@@ -1,5 +1,6 @@
 ﻿namespace csharp
 {
+    //CANNOT ALTER THIS CLASS
     public class Item
     {
         public string Name { get; set; }

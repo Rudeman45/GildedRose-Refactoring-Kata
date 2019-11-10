@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\csharp.exe.config
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\csharp.exe
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\csharp.pdb
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\ApprovalTests.dll
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\ApprovalUtilities.dll
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\ApprovalUtilities.Net45.dll
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\ApprovalTests.xml
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\ApprovalUtilities.xml
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\ApprovalUtilities.Net45.xml
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\bin\Debug\nunit.framework.xml
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\obj\Debug\csharp.csprojAssemblyReference.cache
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\obj\Debug\csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\obj\Debug\csharp.csproj.CopyComplete
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\obj\Debug\csharp.exe
+C:\Users\User\Documents\GildedRose-Refactoring-Kata\obj\Debug\csharp.pdb

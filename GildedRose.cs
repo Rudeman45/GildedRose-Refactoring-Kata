@@ -14,8 +14,9 @@ namespace csharp
         {
             for (var i = 0; i < Items.Count; i++)
             {
-                //dodanie zmiany w conjured mana cake
-                if (Items[i].Name == "Conjured Mana Cake")
+                
+                //zmiana w conjured
+                if (Items[i].Name == "Conjured Mana Cakes")
                 {
                     Items[i].Quality = Items[i].Quality - 1;
                     if (Items[i].Quality < 0)
@@ -93,6 +94,7 @@ namespace csharp
                         }
                     }
                 }
+    
             }
         }
 

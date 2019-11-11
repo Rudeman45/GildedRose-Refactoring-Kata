@@ -3,13 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using csharp;
 
-namespace csharp
+namespace test.InventoryStatusUpdaterTest
 {
-    class Test
+    class InventoryStatusUpdate
     {
+        public object UpdateQuality { get; private set; }
+
         public void Test01()
         {
+            var statusUpdater = new InventoryStatusUpdate();
+
         }
     }
 }
